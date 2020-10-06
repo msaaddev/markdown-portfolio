@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Completing this GitHub crash course
+2. Talking with my pod leader
+3. Interacting with other fellows
