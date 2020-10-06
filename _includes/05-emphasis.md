@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **JavaScript Dev**
+2. **Open Sourcer**
+3. **Speaker**
+4. *Former DSC Lead*
+5. *MLSA*
